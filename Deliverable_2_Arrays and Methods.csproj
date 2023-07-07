@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Deliverable_2_Arrays_and_Methods</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="F:\2023 SUMMER\Qiu\Deliverable_2_Arrays and Methods.cs" Link="Deliverable_2_Arrays and Methods.cs" />
+  </ItemGroup>
+
+</Project>
